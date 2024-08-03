@@ -1,0 +1,7 @@
+cohere
+sentence-transformers
+rank_bm25
+langchain_weaviate
+pypdf
+langchain_community
+
